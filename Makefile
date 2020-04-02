@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-g -O0 -std=c99 
+CFLAGS=-g -O0
 SUPPRESS_WARN=-w
 MES=mod-elf-symbol
 SDIR=src

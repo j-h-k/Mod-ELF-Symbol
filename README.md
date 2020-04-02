@@ -4,7 +4,7 @@ replace or modify symbol names in elf object files (relocatable and executable)
 ## SETUP
 In your Terminal:
 
-	$> git clone https://github.com/jaekim95/simple-shell.git
+	$> git clone https://github.com/j-h-k/Mod-ELF-Symbol.git
 	$> make
 
 ## USAGE/HOW TO
